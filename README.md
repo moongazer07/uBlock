@@ -149,7 +149,7 @@ If you ever want to contribute something, think about the people working hard to
 [Crowdin]: https://crowdin.com/project/ublock
 [Chrome]: https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
 [Reddit]: https://www.reddit.com/r/uBlockOrigin/
-[Theft]: https://twitter.com/LeaVerou/status/518154828166725632
+[Theft]: https://web.archive.org/web/20220326025936/https://twitter.com/LeaVerou/status/518154828166725632
 [Opera]: https://addons.opera.com/extensions/details/ublock/
 [Edge]: https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak
 [NPM]: https://www.npmjs.com/package/@gorhill/ubo-core
